@@ -6,4 +6,4 @@ by Ronald Abel BSCS-1A
 4. ProgrammingMarks.java
 5. PythagoreanTheorem.java
 
-Press "View code" above to see the files.
+Press "View code" above to see the files if you are using a mobile phone.
